@@ -1,0 +1,12 @@
+<Fabrics>
+    <Fabric>
+        <Type>Farmhouse</Type>
+        <Place>Puhovichi</Place>
+        <Amount>5</Amount>
+    </Fabric>
+    <Fabric>
+        <Type>Cottage</Type>
+        <Place>Minsk</Place>
+        <Amount>200</Amount>
+    </Fabric>
+</Fabrics>
